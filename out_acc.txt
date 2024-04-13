@@ -1,0 +1,10 @@
+Accuracy after 5 epoch = 0.8048790795075667
+Accuracy after 10 epoch = 0.8238320590785269
+Accuracy after 15 epoch = 0.8329467597550743
+Accuracy after 20 epoch = 0.8378167692761688
+Accuracy after 25 epoch = 0.8412350378313117
+Accuracy after 30 epoch = 0.8434425693410097
+Accuracy after 35 epoch = 0.8453215539126107
+Accuracy after 40 epoch = 0.8466229731279915
+Accuracy after 45 epoch = 0.8480228370687872
+Accuracy after 50 epoch = 0.8491003998698743
