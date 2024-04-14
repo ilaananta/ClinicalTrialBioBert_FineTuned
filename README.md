@@ -1,6 +1,6 @@
 ## ClinicalTrialBioBert_FineTuned
 
-This repository contains a fine-tuned version of the [domenicrosati/ClinicalTrialBioBert-NLI4CT](https://huggingface.co/domenicrosati/ClinicalTrialBioBert-NLI4CT) model, tailored specifically for tasks within the clinical trial domain. The model has been trained on the Clinical Trial Texts Dataset, a comprehensive collection of text data extracted from clinical trials available on [ClinicalTrials.gov](https://ClinicalTrials.gov) as of December 3rd, 2022. With a vast corpus comprising 434,977 trials, this dataset serves as a rich source of information for training language models in both biomedical and clinical trial domains.
+This repository contains a fine-tuned version of the [domenicrosati/ClinicalTrialBioBert-NLI4CT](https://huggingface.co/domenicrosati/ClinicalTrialBioBert-NLI4CT) model, tailored specifically for tasks within the clinical trial domain. The model has been trained on the [Clinical Trial Texts Dataset](https://huggingface.co/datasets/domenicrosati/clinical_trial_texts), a comprehensive collection of text data extracted from clinical trials available on [ClinicalTrials.gov](https://ClinicalTrials.gov) as of December 3rd, 2022. With a vast corpus comprising 434,977 trials, this dataset serves as a rich source of information for training language models in both biomedical and clinical trial domains.
 
 ### Files
 
