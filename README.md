@@ -15,7 +15,7 @@ Within this repository, you will find the following files:
 
 #### Input
 
-The dataset used for fine-tuning was enriched by identifying an additional 50439 clinical trials available on ClinicalTrials.gov but not present in the original dataset used to train ClinicalTrialBioBert. This supplementary dataset was then converted to CSV format and used as input for further processing.
+The dataset used for fine-tuning was enriched by identifying an additional 50439 clinical trials available on [ClinicalTrials.gov](https://ClinicalTrials.gov) but not present in the original dataset used to train ClinicalTrialBioBert. This supplementary dataset was then converted to CSV format and used as input for further processing.
 
 #### Preprocessing
 
