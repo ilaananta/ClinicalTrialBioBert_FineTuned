@@ -6,7 +6,7 @@ This repository contains a fine-tuned version of the [domenicrosati/ClinicalTria
 
 Within this repository, you will find the following files:
 
-- **DownstreamTasks**: A directory containing Python notebooks implementing downstream tasks using the fine-tuned model.
+- **DownstreamTasks**: A directory containing Python notebooks implementing downstream tasks using the fine-tuned model. It also contains the checkpoint of the fine-tuned model.
 - **LoRA_ClinicalBioBert.py**: Python code responsible for fine-tuning the model using the LoRA (Low-Rank Adaptation of Large Language Models) technique.
 - **out_acc.txt**: A text file containing accuracy metrics after every 5 epochs of fine-tuning.
 - **input.csv**: A CSV file containing new trial data (50439 trials) used as input for fine-tuning the model.
